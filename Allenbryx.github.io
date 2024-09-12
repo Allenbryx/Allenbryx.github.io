@@ -139,33 +139,38 @@
                     Hi! I’m Allen Bryx, a passionate Information Technology student at PHINMA University of Pangasinan. My journey in tech started with a curiosity about how things work in the digital world, and I’ve since been developing skills in coding, app development, and game development.
                 </p>
             </section>
+<section id="projects">
+    <h2>Projects</h2>
+    <div class="project-grid">
+        <article>
+            <h3>Hardware Bazaar</h3>
+            <p>Hardware Bazaar offers a comprehensive selection of components and peripherals from various brands, enabling customers to build or upgrade their PCs according to their needs. We provide everything required to create high-performance systems or enhance existing ones, making it easier for you to realize your ideal PC setup.</p>
+        </article>
+        <article>
+            <h3>Cyber Restaurant</h3>
+            <p>Cyber Restaurant provides a convenient online ordering system for delicious food. Browse our menu and have your favorite dishes delivered right to your doorstep, making dining easy and enjoyable.</p>
+        </article>
+        <article>
+            <h3>Fitness Bro</h3>
+            <p>Fitness Bro caters to men aiming to enhance their physical strength and physique with straightforward home workouts. The program requires minimal equipment and offers the freedom to exercise at your preferred times, making it easy to fit fitness into your busy schedule.</p>
+        </article>
+    </div>
+</section>
 
-            <section id="projects">
-                <h2>Projects</h2>
-                <div class="project-grid">
-                    <article>
-                        <h3>Project One</h3>
-                        <p>Experience the convenience of ordering delicious, freshly prepared meals from our restaurant online, where you can easily browse our menu and enjoy your favorite dishes delivered right to your door.</p>
-                    </article>
-                </div>
-            </section>
+<section id="skills">
+    <h2>Skills</h2>
+    <ul>
+        <li>Programming: HTML, Java, Python</li>
+    </ul>
+</section>
 
-            <section id="skills">
-                <h2>Skills</h2>
-                <ul>
-                    <li>Programming: HTML, CSS, JavaScript, Python</li>
-                    <li>Frameworks: React, Node.js</li>
-                    <li>Tools: Git, Docker, Jenkins</li>
-                </ul>
-            </section>
-
-            <section id="contact">
-                <h2>Contact</h2>
-                <p>Email: <a href="mailto:alga.palmes.up@phinmaed.com">alga.palmes.up@phinmaed.com</a></p>
-                <p>Phone: <a href="tel:+1234567890">09911396401</a></p>
-                <p>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile" target="_blank">Your LinkedIn Profile</a></p>
-            </section>
-        </main>
+<section id="contact">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:alga.palmes.up@phinmaed.com">alga.palmes.up@phinmaed.com</a></p>
+    <p>Phone: <a href="tel:+1234567890">09911396401</a></p>
+    <p>Facebook: <a href="https://www.facebook.com/yourprofile" target="_blank">Allen Bryx Palmes</a></p>
+		</section>
+ </main>
     </div>
 
 </body>
