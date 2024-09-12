@@ -5,8 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Allen Bryx - Portfolio</title>
     <style>
-        /* Reset all borders and outlines globally */
-        * {
+        {
             border: none;
             outline: none;
         }
@@ -20,7 +19,6 @@
             height: 100vh;
         }
 
-        /* Left Side: Name and Navigation */
         .left-side {
             width: 25%;
             background-color: #0056b3;
@@ -57,7 +55,6 @@
             text-decoration: underline;
         }
 
-        /* Right Side: Main Content */
         .right-side {
             width: 75%;
             padding: 40px;
@@ -117,7 +114,6 @@
 </head>
 <body>
 
-    <!-- Left Side: Name and Navigation -->
     <div class="left-side">
         <h1>Allen Bryx</h1>
         <nav>
@@ -130,7 +126,6 @@
         </nav>
     </div>
 
-    <!-- Right Side: Main Content -->
     <div class="right-side">
         <main>
             <section id="about">
